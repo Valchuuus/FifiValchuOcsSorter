@@ -30,21 +30,21 @@ dataSet["2025-08-21"] = {
     { name: "Oliver", img: "Oliver.webp", opts: { group: ["manga", "all"] } },
     { name: "Sean",   img: "Sean.webp",   opts: { group: ["manga", "all"] } },
 
-    // Brujitas
-    { name: "Ronan",  img: "No Image.jpg", opts: { group: ["brujitas", "all"] } },
-    { name: "Kyro",   img: "No Image.jpg", opts: { group: ["brujitas", "all"] } },
-    { name: "Haze",   img: "No Image.jpg", opts: { group: ["brujitas", "all"] } },
-    { name: "Willow", img: "No Image.jpg", opts: { group: ["brujitas", "all"] } },
-    { name: "Lily",   img: "No Image.jpg", opts: { group: ["brujitas", "all"] } },
-    { name: "Theo",   img: "No Image.jpg", opts: { group: ["brujitas", "all"] } },
+   // Brujitas
+    { name: "Ronan",  img: "noimage.jpg", opts: { group: ["brujitas", "all"] } },
+    { name: "Kyro",   img: "noimage.jpg", opts: { group: ["brujitas", "all"] } },
+    { name: "Haze",   img: "noimage.jpg", opts: { group: ["brujitas", "all"] } },
+    { name: "Willow", img: "noimage.jpg", opts: { group: ["brujitas", "all"] } },
+    { name: "Lily",   img: "noimage.jpg", opts: { group: ["brujitas", "all"] } },
+    { name: "Theo",   img: "noimage.jpg", opts: { group: ["brujitas", "all"] } },
 
     // Roomies
-    { name: "Max",   img: "No Image.jpg", opts: { group: ["roomies", "all"] } },
-    { name: "Ellis", img: "No Image.jpg", opts: { group: ["roomies", "all"] } },
-    { name: "Alice", img: "No Image.jpg", opts: { group: ["roomies", "all"] } },
+    { name: "Max",   img: "noimage.jpg", opts: { group: ["roomies", "all"] } },
+    { name: "Ellis", img: "noimage.jpg", opts: { group: ["roomies", "all"] } },
+    { name: "Alice", img: "noimage.jpg", opts: { group: ["roomies", "all"] } },
 
     // Other
-    { name: "Vinny", img: "No Image.jpg", opts: { group: ["other", "all"] } },
-    { name: "Mia",   img: "No Image.jpg", opts: { group: ["other", "all"] } }
+    { name: "Vinny", img: "noimage.jpg", opts: { group: ["other", "all"] } },
+    { name: "Mia",   img: "noimage.jpg", opts: { group: ["other", "all"] } }
   ]
 };
